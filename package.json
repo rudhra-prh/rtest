@@ -12,7 +12,7 @@
     "@hapi/boom": "^10.0.1",
     "@neeraj-x0/nodetoolkit": "^1.0.3",
     "@vitalets/google-translate-api": "^9.2.0",
-    "@whiskeysockets/baileys": "github:princerudh/Baileys",
+    "@whiskeysockets/baileys": "^6.7.13",
     "acrcloud": "^1.4.0",
     "aptoide-scraper": "^1.0.1",
     "axios": "^1.7.2",
